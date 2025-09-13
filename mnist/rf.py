@@ -1,6 +1,7 @@
 # implementation of Rectified Flow for simple minded people like me.
 import argparse
 import torch
+class RF:
     def __init__(self, model, ln=True):
         self.model = model
         self.ln = ln

@@ -1,2 +1,4 @@
 contents/
 wandb/
+__pycache__/
+logs/
